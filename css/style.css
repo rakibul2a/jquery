@@ -1,0 +1,58 @@
+#h22 {
+    color: red;
+    margin: 5px;
+    cursor: pointer;
+  }
+p:hover {
+    background: yellow;
+  }
+#h33{
+  background: yellow;
+}
+
+#di {
+    background: #def3ca;
+    margin: 3px;
+    width: 80px;
+    display: none;
+    float: left;
+    text-align: center;
+  }
+
+.sp{
+    display: none;
+  }
+.no {
+    display: none;
+  }
+#ppp {
+    font-weight: bold;
+    background-color: #fcd;
+  }
+
+#block {
+    background-color: #bca;
+    width: 100px;
+    border: 1px solid green;
+  } 
+#block1,#block2{
+    background-color: #bca;
+    width: 200px;
+    height: 1.1em;
+    text-align: center;
+    border: 2px solid green;
+    margin: 3px;
+    font-size: 14px;
+  }
+ .btn2{
+    font-size: 14px;
+  }
+.block4 {
+    position: absolute;
+    background-color: #abc;
+    left: 50px;
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+  }
+
